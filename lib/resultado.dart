@@ -31,8 +31,7 @@ class Resultado extends StatelessWidget {
           style: TextStyle(fontSize: 20, color: Colors.blue),
           textAlign: TextAlign.center,       
         ),
-      ),
-      ],
+      )],
     );
   }
 }
