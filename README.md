@@ -16,8 +16,16 @@ Este é um aplicativo Flutter que apresenta uma série de perguntas aos usuário
 
 4. Conecte um dispositivo ou inicie um emulador Android ou iOS.
 
-5. No terminal, execute o comando `flutter run` para iniciar o aplicativo no dispositivo ou emulador.
+5. Abra o Visual Studio Code.
+ 
+6. Vá para File, Open Folder... e localize o projeto Flutter.
+ 
+7. Clique na pasta do projeto Flutter e em seguida clique no botão Select Folder.
+ 
+8. No canto inferior direito, clique no botão No Device e selecione "Run in flutter emulator" no menu suspenso.
+ 
+9. Aguarde enquanto o emulador do Flutter é iniciado e o aplicativo é instalado e executado automaticamente.
 
-6. Responda às perguntas apresentadas no aplicativo.
-
-7. Visualize a pontuação no final do questionário.
+10. Responda às perguntas apresentadas no aplicativo.
+ 
+11. Visualize a pontuação no final do questionário.
